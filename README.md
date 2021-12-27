@@ -342,6 +342,10 @@
 
 ![Image](https://img.smyhvae.com/10-20211227141136613.jpeg)
 
+### 428
+
+![](https://img.smyhvae.com/2021-jike-yellow-428.jpeg)
+
 ### 433
 
 ![Image](https://img.smyhvae.com/10-20211227140507712.jpeg)
