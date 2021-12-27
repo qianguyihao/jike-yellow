@@ -1,8 +1,10 @@
-# 即刻 Jike Yellow  前1000名会员
+# 即刻 Jike Yellow  前1000名会员名单
 
 ## 前言
 
-欢迎提交 issues补充；或者加微信 bootmei 补充（暗号：即友）。
+欢迎提交 issues补充名单；或者加微信 bootmei 补充名单（暗号：即友）。
+
+可下载即刻App，付费体验即刻 Jike Yellow 会员服务。
 
 ## 会员名单
 
