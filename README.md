@@ -1,8 +1,12 @@
-# 即刻App创始会员（前1000名会员）
+# 即刻App 前1000名会员
+
+## 前言
+
+欢迎提交 issues补充；或者加微信 bootmei 补充（暗号：即友）。
 
 ## 即刻 Jike Yellow 会员名单
 
-### 27
+### 27：[多香菜但不要葱姜蒜谢谢](https://web.okjike.com/u/DE27E377-0ADA-4347-B03E-1E45491D845E)
 
 ![Image](http://img.smyhvae.com/10-20211227141848147.jpeg)
 
