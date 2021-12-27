@@ -151,6 +151,10 @@
 
 ![](https://img.smyhvae.com/2021-jike-yellow-151.jpeg)
 
+### 152
+
+![](https://img.smyhvae.com/2021-jike-yellow-152.jpeg)
+
 ### 156
 
 ![Image](https://img.smyhvae.com/10-20211227141204635.jpeg)
