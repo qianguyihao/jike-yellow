@@ -17,7 +17,7 @@
 
 ## 欢迎补充
 
-- 方式1：提交 GitHub issues。
+- 方式1：提交 [GitHub issues](https://github.com/qianguyihao/jike-yellow/issues)。
 
 - 方式2：在即刻的任意帖子或评论区@[千古壹号](https://m.okjike.com/users/smyhvae)，记得包含会员编号的分享图。
 
@@ -26,7 +26,7 @@
 
 ## 更新进度
 
-- 1至1000：327/1000
+- 1至1000：328/1000
 
 - 1001至2000：166/1000
 
